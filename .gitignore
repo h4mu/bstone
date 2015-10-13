@@ -12,3 +12,7 @@ x64/
 *.sdf
 *.suo
 *.user
+com.github.h4mu.bstone/bin/
+com.github.h4mu.bstone/libs/
+com.github.h4mu.bstone/obj/
+com.github.h4mu.bstone/gen/
